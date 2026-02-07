@@ -630,31 +630,3 @@ transition: 0.3s ease;
     }
 
 }
-
-@media (max-width: 768px) {
-
-    .about-section {
-        padding: 40px 15px;
-    }
-
-    .about-section .about-container {
-        flex-direction: column;
-        text-align: center;
-        gap: 20px;
-    }
-
-    .about-section .about-image img {
-        width: 100%;
-        height: auto;
-    }
-
-    .about-section .about-details {
-        width: 100%;
-    }
-
-    .about-section .about-details .text {
-        margin: 20px 0;
-        line-height: 24px;
-    }
-
-}
